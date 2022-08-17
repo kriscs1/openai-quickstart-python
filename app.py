@@ -44,6 +44,5 @@ def index():
 #         prompt.capitalize()
 #     )
 
-
 if __name__ == "__main__":
     app.run()
